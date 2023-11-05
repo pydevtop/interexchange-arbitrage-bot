@@ -57,7 +57,7 @@ Go to the SpotTradingBot folder and click on the start.bat file to start the bot
 #### Additional Information
 System requirements: Windows 10/11, Python 3.x.x
 
-## Buy a subscription to Binance P2P Bot
+## Buy a subscription to SpotTradingBot
 https://py-dev.top/en/application-software/interexchange-arbitrage-bot-spottradingbot
 ## Contacts
 Telegram:  @morgan_sql
