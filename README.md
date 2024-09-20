@@ -53,6 +53,9 @@ In the folder of drive C: unpack the archive SpotTradingBot.zip
 
 Go to the SpotTradingBot folder and click on the start.bat file to start the bot
 
+#### Report:
+#### 20/09/2024 - Update: version 1.0.1
+<pre>Added: Events that inform about the bot's actions on the exchanges, that is, on which of the exchanges a purchase or sale is being prepared when an arbitrage situation occurs</pre>
 
 #### Additional Information
 System requirements: Windows 10/11, Python 3.x.x
