@@ -31,7 +31,7 @@ SpotTradingBot is designed for traders and investors who are looking for ways to
 Instructions for installing and configuring the SpotTradingBot
 To manage the Binance P2P bot software, you need to create and connect a telegram bot
 #### 1. Registering a new Telegram bot
-Detailed instructions for registering a new telegram bot: https://py-dev.top/en/registering-telegram-bot
+Detailed instructions for registering a new telegram bot: https://py-dev.top/registering-telegram-bot
 
 The resulting API key for your telegram bot will need to be copied and added to the config.py configuration file located in the bot folder
 
@@ -45,7 +45,7 @@ We create or take existing API Key and Secret Key to connect to the Bybit API on
 
 APIKey and Secret Key also need to be copied and added to the bot configuration file config.py
 #### 4. Install Python
-Detailed instructions on how to install Python on Windows: https://py-dev.top/en/installing-python
+Detailed instructions on how to install Python on Windows: https://py-dev.top/installing-python
 
 Go to the settings of the bot itself
 
