@@ -2,7 +2,7 @@
 
 SpotTradingBot it automated trading tool designed to execute spot trades on cryptocurrency exchanges, specifically Binance and ByBit. This bot is designed to perform inter-exchange arbitrage and maximize profits by taking advantage of price differences between different exchanges.
 
-<p align="center"><img width="400" src="https://py-dev.top/components/com_jshopping/files/img_products/Interexchange_arbitrage_bot.png"></p>
+<p align="center"><img  src="https://py-dev.top/components/com_jshopping/files/img_products/Interexchange_arbitrage_bot.png"></p>
 
 ## Main functions:
 
