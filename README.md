@@ -69,8 +69,13 @@ P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
 ### Additional Information
 System requirements: Windows 10/11, Python 3.x.x
 
-## Buy a subscription to SpotTradingBot
-https://py-dev.top/application-software/interexchange-arbitrage-bot-spottradingbot
+## Buy SpotTradingBot
+
+SpotTradingBot is an advanced tool for automated spot trading on major exchanges.
+
+👉 [Click here to buy SpotTradingBot](https://py-dev.top/application-software/interexchange-arbitrage-bot-spottradingbot)
+
+
 ## Contacts
 Telegram:  @morgan_sql<br>
 
