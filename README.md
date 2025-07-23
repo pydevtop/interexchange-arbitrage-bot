@@ -2,7 +2,7 @@
 
 SpotTradingBot it automated trading tool designed to execute spot trades on cryptocurrency exchanges, specifically Binance and ByBit. This bot is designed to perform inter-exchange arbitrage and maximize profits by taking advantage of price differences between different exchanges.
 
-<p align="center"><img  src="https://py-dev.top/components/com_jshopping/files/img_products/Interexchange_arbitrage_bot.png"></p>
+<p align="center"><img  src="https://py-dev.top/components/com_jshopping/files/img_products/screener_spot_binance_bybit_arbitrage.png"></p>
 
 ## Main functions:
 
@@ -59,6 +59,22 @@ Go to the SpotTradingBot folder and click on the start.bat file to start the bot
 ### 20/09/2024 - Update: version 1.0.1
 
 Added: Events that inform about the bot's actions on the exchanges, that is, on which of the exchanges a purchase or sale is being prepared when an arbitrage situation occurs
+
+### 19/07/2025 - Update version 1.0.2 - Added:
+
+✔ Implemented real-time spot screener to track hundreds of pairs  
+✔ Multi-token arbitrage support — trade more than one pair simultaneously  
+✔ Fully redesigned UI — faster, cleaner, and more intuitive  
+✔ Added filters by ROI, volume, and volatility  
+✔ Telegram integration — get instant alerts in your chat  
+✔ Improved performance and bot stability  
+✔ All trading data is dynamically loaded from Binance and ByBit at bot startup — including up-to-date fees, token lists, limits, and market parameters
+ 
+
+###  23/07/2025 – Version 1.0.3 
+
+Update – Introduced Can Buy Amount functionality: the bot now evaluates the actual amount available for purchase at current price levels. This avoids low-liquidity trades.
+
 ********************************************************************************************************************************************************************************
 
 ####  Similar developments:
