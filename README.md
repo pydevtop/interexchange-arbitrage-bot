@@ -80,6 +80,12 @@ Update – Introduced Can Buy Amount functionality: the bot now evaluates the ac
 ####  Similar developments:
 ******************************************************************************
 P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
+
+### Related Binance P2P Automation Tool
+
+**Binance P2P Telegram Bot** is a Python-based trading automation solution that provides automatic chat responses, order tracking, payment detection, and instant crypto release for Binance P2P merchants.
+
+https://github.com/pydevtop/p2p-binance-telegram-bot
 ******************************************************************************
 
 ### Additional Information
@@ -89,7 +95,7 @@ System requirements: Windows 10/11, Python 3.x.x
 
 SpotTradingBot is an advanced tool for automated spot trading on major exchanges.
 
-👉 [Click here to buy SpotTradingBot](https://py-dev.top/application-software/interexchange-arbitrage-bot-spottradingbot)
+👉 https://py-dev.top/application-software/interexchange-arbitrage-bot-spottradingbot
 
 
 ## Contacts
