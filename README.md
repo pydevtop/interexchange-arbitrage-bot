@@ -95,7 +95,7 @@ System requirements: Windows 10/11, Python 3.x.x
 
 SpotTradingBot is an advanced tool for automated spot trading on major exchanges.
 
-👉 https://py-dev.top/application-software/interexchange-arbitrage-bot-spottradingbot
+👉 https://py-dev.top/application-software/spot-arbitrage-screener-binance-bybit
 
 
 ## Contacts
