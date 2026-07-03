@@ -497,7 +497,7 @@ These guides explain the software in greater detail, including installation, con
 ## Español
 
 * Spot Arbitrage Screener para Binance y Bybit
-  https://py-dev.top/es/software-de-aplicaciones)/spot-arbitrage-screener-binance-bybit
+  https://py-dev.top/es/software-de-aplicaciones/spot-arbitrage-screener-binance-bybit
 
 ---
 
