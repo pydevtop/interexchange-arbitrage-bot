@@ -501,7 +501,9 @@ These guides explain the software in greater detail, including installation, con
 
 ---
 
-# Related Binance Trading Software
+### Related Binance P2P Automation Tool
+
+> 📖 **API Reference:** Looking for full Binance SAPI and C2C schema specs? Check out our [Binance SAPI & C2C REST API Reference](https://github.com/pydevtop/binance-c2c-sapi-endpoints) or interactive docs on [py-dev.top/binance-api/](https://py-dev.top/binance-api/).
 
 If you are interested in cryptocurrency trading automation, you may also find the following projects useful.
 
@@ -679,6 +681,7 @@ GitHub
 https://github.com/pydevtop
 
 ---
+
 
 # License
 
