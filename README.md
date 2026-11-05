@@ -332,7 +332,7 @@ Telegram notifications require a Bot Token generated through **BotFather**.
 
 Detailed instructions:
 
-https://py-dev.top/registering-telegram-bot
+https://py-dev.top/blog/setup-guides/how-to-create-telegram-bot-botfather-api-token
 
 After creating your Telegram bot, copy the generated token into the configuration file.
 
@@ -378,7 +378,7 @@ If Python is not already installed, download and install the latest Python 3 rel
 
 Installation guide:
 
-https://py-dev.top/installing-python
+https://py-dev.top/blog/setup-guides/how-to-install-python-on-windows
 
 ---
 
@@ -505,7 +505,7 @@ These guides explain the software in greater detail, including installation, con
 
 ### Related Binance P2P Automation Tool
 
-> 📖 **API Reference:** Looking for full Binance SAPI and C2C schema specs? Check out our [Binance SAPI & C2C REST API Reference](https://github.com/pydevtop/binance-c2c-sapi-endpoints) or interactive docs on [py-dev.top/binance-api/](https://py-dev.top/binance-api/).
+> 📖 **API Reference:** Looking for full Binance SAPI and C2C schema specs? Check out our [Binance SAPI & C2C REST API Reference](https://github.com/pydevtop/binance-c2c-sapi-endpoints) or interactive docs on [py-dev.top/binance-api](https://py-dev.top/binance-api).
 
 If you are interested in cryptocurrency trading automation, you may also find the following projects useful.
 
