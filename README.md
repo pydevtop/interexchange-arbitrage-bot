@@ -2,12 +2,14 @@
 
 A **Spot Arbitrage Screener** is a specialized cryptocurrency trading tool that continuously monitors spot markets across multiple exchanges to identify profitable cross-exchange arbitrage opportunities.
 
+
 ## 🌍 Available Documentation
 
-| Language     | Documentation |
-| ------------ | ------------- |
-| 🇺🇸 English | README.md     |
-| 🇪🇸 Español | README_ES.md  |
+| Language | Documentation |
+|----------|---------------|
+| 🇺🇸 English | [README.md](README.md) |
+| 🇪🇸 Español (LATAM) | [README_ES.md](README_ES.md) |
+
 
 ---
 ### Spanish Documentation
@@ -22,7 +24,7 @@ Unlike traditional trading bots that focus only on automatic order execution, th
 Currently, the software supports **Binance** and **Bybit**, allowing traders to monitor hundreds of trading pairs simultaneously without manually switching between exchanges.
 
 <p align="center">
-<img src="https://py-dev.top/components/com_jshopping/files/img_products/thumb_9e2d57b3-371d-4f25-8f2b-3e006ea8e0da.png">
+<img src="https://py-dev.top/media/store/products/spot-arbitrage-screener-binance-bybit/thumb_full_spot-arbitrage-screener_mmjBIz9.jpeg">
 </p>
 
 Unlike many cloud-based trading services, the Spot Arbitrage Screener is **self-hosted software**. It runs entirely on your own computer or VPS, giving you complete control over your trading environment, exchange connections and API credentials.
