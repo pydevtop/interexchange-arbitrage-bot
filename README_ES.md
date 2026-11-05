@@ -343,7 +343,7 @@ Si deseas recibir alertas automáticas, primero debes crear un Bot de Telegram u
 
 Guía completa:
 
-https://py-dev.top/registering-telegram-bot
+https://py-dev.top/es/bitacora/guias-y-configuracion/como-crear-bot-telegram-botfather-token-api
 
 Una vez generado el token, copia la información en el archivo de configuración.
 
@@ -389,7 +389,7 @@ Si todavía no tienes Python instalado, descarga la versión más reciente de Py
 
 Guía de instalación:
 
-https://py-dev.top/installing-python
+https://py-dev.top/es/bitacora/guias-y-configuracion/instalar-python-windows
 
 ---
 
